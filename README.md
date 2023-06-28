@@ -1,4 +1,20 @@
+
+## NEXTJS 13.4 Metodos Fetch STATIC, DYNAMIC, ISR
+
+Se esta aprovechando el nuevo motor de app
+
+
+API : https://api.unsplash.com
+
+Agregue su API en el archivo .env
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
